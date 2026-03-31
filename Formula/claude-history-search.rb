@@ -1,7 +1,7 @@
 class ClaudeHistorySearch < Formula
   desc "Search & browse Claude Code conversation history with native Qt GUI"
   homepage "https://github.com/JuneLeGency/claude-history-search"
-  url "https://github.com/JuneLeGency/claude-history-search.git", tag: "v0.4.0", using: :git
+  url "https://github.com/JuneLeGency/claude-history-search.git", tag: "v0.4.1", using: :git
   license "MIT"
 
   depends_on "cmake" => :build
